@@ -11,6 +11,44 @@
 
 - 📫 How to reach me **fran.perez@pucp.edu.pe**
 
+<h3> 📜 Cloud Certificates </h3>
+
+- ✅ &nbsp; AWS Solutions Architect Associate.
+
+- ✅ &nbsp; AWS  Cloud Practitioner
+
+<h3>☁️ Cloud </h3>
+
+- 🔧 &nbsp; AWS (EC2, ECS, Route53, Lambda, RDS, ECS, CloudFormation, AWS CLI, etc.) 
+
+- 🐳 &nbsp; Docker
+<h3>⏱ in process</h3>
+
+- 🔧 &nbsp; K8S
+- 🔧 &nbsp; Terraform
+- 🔧 &nbsp; Jenkins
+<hr>
+<hr>
+
+
+<br/><br/>
+
+[![Benjamin SH GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranP0610&show_icons=true)](https://github.com/FranP0610)
+
+<br/>
+
+<br/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranP0610&show_icons=true)
+
+<br><br>
+
+
+
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/franpérez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/franpérez" height="30" width="40" /></a>
