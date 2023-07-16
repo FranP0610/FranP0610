@@ -19,7 +19,7 @@
 
 ### DevOps & Cloud Tools⚒️
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/><img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/>  <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/>
+<img src="https://img.icons8.com/?size=512&id=33039&format=png" alt="aws" width="40" height="40"/><img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/>  <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/>
 
 ### ⏱ in process
 <img src="https://img.icons8.com/?size=512&id=cvzmaEA4kC0o&format=png" alt="k8s" width="40" height="40"/><img src="https://img.icons8.com/?size=512&id=kEkT1u7zTDk5&format=png" alt="Terraform" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>   <img src="https://img.icons8.com/?size=512&id=39292&format=png" alt="go" width="40" height="40"/>  <img src="https://img.icons8.com/?size=512&id=Y9Kxy8Xl1id8&format=png" alt="go" width="40" height="40"/> 
